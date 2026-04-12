@@ -3,7 +3,7 @@
 
 content-index:
 
-  timestamp: '2026-04-11T01:10:38Z'
+  timestamp: '2026-04-12T01:19:01Z'
 
   entries:
 
@@ -16,25 +16,25 @@ content-index:
             - file: all.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=views|all&query=count&url=https://github.com/andry81-stats/amule--gh-stats/raw/master/traffic/views/latest-accum.json?raw=True&logo=github
               md5-hash: d4136b54673b0ef47456c430bc9f002f
-              timestamp: '2026-04-11T01:10:33Z'
+              timestamp: '2026-04-12T01:18:56Z'
               size: 2292
 
             - file: all-14d.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=14d&query=count&url=https://github.com/andry81-stats/amule--gh-stats/raw/master/traffic/views/latest.json?raw=True
               md5-hash: 033b5894d5e413de115ae553bd2d6e2e
-              timestamp: '2026-04-11T01:10:33Z'
+              timestamp: '2026-04-12T01:18:56Z'
               size: 1058
 
             - file: unq.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=views|unq&query=uniques&url=https://github.com/andry81-stats/amule--gh-stats/raw/master/traffic/views/latest-accum.json?raw=True&logo=github
               md5-hash: e85b47b44156818cddd575ddd7a56649
-              timestamp: '2026-04-11T01:10:34Z'
+              timestamp: '2026-04-12T01:18:57Z'
               size: 2292
 
             - file: unq-14d.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=14d&query=uniques&url=https://github.com/andry81-stats/amule--gh-stats/raw/master/traffic/views/latest.json?raw=True
               md5-hash: 033b5894d5e413de115ae553bd2d6e2e
-              timestamp: '2026-04-11T01:10:35Z'
+              timestamp: '2026-04-12T01:18:58Z'
               size: 1058
 
         - dir: repo/andry81-builds/amule/badges/traffic/clones
@@ -44,24 +44,24 @@ content-index:
             - file: all.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=clones|all&query=count&url=https://github.com/andry81-stats/amule--gh-stats/raw/master/traffic/clones/latest-accum.json?raw=True&logo=github
               md5-hash: ab4312ef350db53d83e326bbf5b14e59
-              timestamp: '2026-04-11T01:10:36Z'
+              timestamp: '2026-04-12T01:18:59Z'
               size: 2296
 
             - file: all-14d.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=14d&query=count&url=https://github.com/andry81-stats/amule--gh-stats/raw/master/traffic/clones/latest.json?raw=True
-              md5-hash: 4ded7931f9c00ab81ff2f39bd50be60e
-              timestamp: '2026-04-11T01:10:37Z'
+              md5-hash: e0951d455b27c012accd80bd183f8280
+              timestamp: '2026-04-12T01:19:00Z'
               size: 1058
 
             - file: unq.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=clones|unq&query=uniques&url=https://github.com/andry81-stats/amule--gh-stats/raw/master/traffic/clones/latest-accum.json?raw=True&logo=github
               md5-hash: 30f91b1b2264914a5c952ba2e4636637
-              timestamp: '2026-04-11T01:10:38Z'
+              timestamp: '2026-04-12T01:19:00Z'
               size: 2298
 
             - file: unq-14d.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=14d&query=uniques&url=https://github.com/andry81-stats/amule--gh-stats/raw/master/traffic/clones/latest.json?raw=True
-              md5-hash: 4ded7931f9c00ab81ff2f39bd50be60e
-              timestamp: '2026-04-11T01:10:38Z'
+              md5-hash: e0951d455b27c012accd80bd183f8280
+              timestamp: '2026-04-12T01:19:01Z'
               size: 1058
 
