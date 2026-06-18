@@ -3,7 +3,7 @@
 
 content-index:
 
-  timestamp: '2026-06-17T03:01:22Z'
+  timestamp: '2026-06-18T02:52:51Z'
 
   entries:
 
@@ -15,26 +15,26 @@ content-index:
 
             - file: all.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=views|all&query=count&url=https://github.com/andry81-stats/amule--gh-stats/raw/master/traffic/views/latest-accum.json?raw=True&logo=github
-              md5-hash: 5ba1fd6c92b8732f07b7e18ef8958ff5
-              timestamp: '2026-06-17T02:58:58Z'
-              size: 15
+              md5-hash: 2fc2c70a37bc07c6cdd8c113ae1582b2
+              timestamp: '2026-06-18T02:52:35Z'
+              size: 2482
 
             - file: all-14d.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=14d&query=count&url=https://github.com/andry81-stats/amule--gh-stats/raw/master/traffic/views/latest.json?raw=True
-              md5-hash: e99a35796ee9a1d88c0f96c63a27025c
-              timestamp: '2026-06-17T02:58:59Z'
-              size: 16
+              md5-hash: 77c55a6a22107447f9eab9a84bc4cef1
+              timestamp: '2026-06-18T02:52:36Z'
+              size: 1239
 
             - file: unq.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=views|unq&query=uniques&url=https://github.com/andry81-stats/amule--gh-stats/raw/master/traffic/views/latest-accum.json?raw=True&logo=github
-              md5-hash: e99a35796ee9a1d88c0f96c63a27025c
-              timestamp: '2026-06-17T02:58:59Z'
-              size: 16
+              md5-hash: 18369a0b4cfd436b8332623f3fd521ff
+              timestamp: '2026-06-18T02:52:46Z'
+              size: 2482
 
             - file: unq-14d.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=14d&query=uniques&url=https://github.com/andry81-stats/amule--gh-stats/raw/master/traffic/views/latest.json?raw=True
               md5-hash: 77c55a6a22107447f9eab9a84bc4cef1
-              timestamp: '2026-06-17T02:59:55Z'
+              timestamp: '2026-06-18T02:52:47Z'
               size: 1239
 
         - dir: repo/andry81-builds/amule/badges/traffic/clones
@@ -44,24 +44,24 @@ content-index:
             - file: all.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=clones|all&query=count&url=https://github.com/andry81-stats/amule--gh-stats/raw/master/traffic/clones/latest-accum.json?raw=True&logo=github
               md5-hash: 9c57aeddeba95049d0c0cfb3d89a60dc
-              timestamp: '2026-06-17T03:00:29Z'
+              timestamp: '2026-06-18T02:52:48Z'
               size: 2487
 
             - file: all-14d.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=14d&query=count&url=https://github.com/andry81-stats/amule--gh-stats/raw/master/traffic/clones/latest.json?raw=True
-              md5-hash: e99a35796ee9a1d88c0f96c63a27025c
-              timestamp: '2026-06-17T03:00:29Z'
-              size: 16
+              md5-hash: 77c55a6a22107447f9eab9a84bc4cef1
+              timestamp: '2026-06-18T02:52:49Z'
+              size: 1239
 
             - file: unq.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=clones|unq&query=uniques&url=https://github.com/andry81-stats/amule--gh-stats/raw/master/traffic/clones/latest-accum.json?raw=True&logo=github
-              md5-hash: e99a35796ee9a1d88c0f96c63a27025c
-              timestamp: '2026-06-17T03:00:30Z'
-              size: 16
+              md5-hash: 39d51cd68ea9720d01d6d4a32a1064a5
+              timestamp: '2026-06-18T02:52:50Z'
+              size: 2490
 
             - file: unq-14d.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=14d&query=uniques&url=https://github.com/andry81-stats/amule--gh-stats/raw/master/traffic/clones/latest.json?raw=True
               md5-hash: 77c55a6a22107447f9eab9a84bc4cef1
-              timestamp: '2026-06-17T03:01:22Z'
+              timestamp: '2026-06-18T02:52:51Z'
               size: 1239
 
